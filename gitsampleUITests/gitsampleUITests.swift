@@ -2,7 +2,7 @@
 //  gitsampleUITests.swift
 //  gitsampleUITests
 //
-//  Created by Nurgul on 11.10.2023.
+//  Created by Islam on 11.10.2023.
 //
 
 import XCTest

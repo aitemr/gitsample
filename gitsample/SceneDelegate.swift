@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  gitsample
 //
-//  Created by Nurgul on 11.10.2023.
+//  Created by Islam on 11.10.2023.
 //
 
 import UIKit
